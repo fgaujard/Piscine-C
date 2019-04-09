@@ -1,0 +1,7 @@
+Credentials cache: API:B92CA978-7212-4FDA-A7AA-6AD5512FA609
+        Principal: fgaujard@42.FR
+
+  Issued                Expires               Principal
+Aug 27 19:16:11 2018  Sep  3 19:16:11 2018  krbtgt/42.FR@42.FR
+Aug 27 19:16:12 2018  Sep  3 19:16:11 2018  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 19:16:12 2018  Sep  3 19:16:11 2018  HTTP/student-storage-1.42.fr@42.FR
